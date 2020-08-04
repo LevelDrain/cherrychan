@@ -1,4 +1,4 @@
-# basic-vue
+# cherry-chan
 
 ## Project setup
 ```
